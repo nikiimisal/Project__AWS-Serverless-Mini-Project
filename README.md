@@ -20,7 +20,7 @@ The application allows users to send data via API requests (GET/POST), which are
 AWS Lambda and stored in DynamoDB.
 
 
-<p>
+<p align="center">
   <img src="https://github.com/nikiimisal/Project__AWS-Serverless-Mini-Project/blob/main/img/serverless.png?raw=true" width="500" alt="Initialize Repository Screenshot">
 </p>
 
