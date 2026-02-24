@@ -117,8 +117,17 @@ This workshop is intended to:
 - Copy the **Invoke URL** (e.g., `https://xxxxxx.execute-api.ap-south-1.amazonaws.com/dev`).
 
 ---
+---
+---
 
-<!-- ## 5. Create an ACM Certificate
+
+  ===<br>
+  ===<br>
+  ===<br>
+
+
+
+ ## 5. Create an ACM Certificate
 
 - Go to **AWS Certificate Manager (ACM)**.
 - Request a public certificate for your custom domain (e.g., `api.nikiimisal.xyz`).
@@ -130,7 +139,7 @@ This workshop is intended to:
 
 - In **API Gateway**, go to **Custom domain names**.
 - Click **Create** or **Add domain name**.
-  - **Domain name:** `api.harishshetty.xyz`
+  - **Domain name:** `api.nikiimisal.xyz`
   - Attach the ACM certificate.
 - Configure **API mappings**:
   - **API:** `Lambda`
@@ -148,9 +157,14 @@ This workshop is intended to:
   - **Alias to:** API Gateway domain
   - **Region:** Select your region
   - **Value:** Select the API Gateway URL
+ 
 
---- -->
+  ===<br>
+  ===<br>
+  ===<br>
 
+---
+---
 
 
 ## Clean-up
