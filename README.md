@@ -19,6 +19,9 @@ The architecture follows a **serverless model**, separating the application into
 The application allows users to send data via API requests (GET/POST), which are processed by  
 AWS Lambda and stored in DynamoDB.
 
+![Architecture Diagram](https://github.com/nikiimisal/Project__AWS-Serverless-Mini-Project/blob/main/img/serverless.png?raw=true)
+
+
 ---
 
 ## 🏗️ Architecture Design (Layers)
