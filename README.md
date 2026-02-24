@@ -1,4 +1,4 @@
-# AWS Serverless Lambda + API Gateway Project
+# AWS Serverless Lambda + API Gateway ( mini project )
 
 [Video Tutorial]()
 
