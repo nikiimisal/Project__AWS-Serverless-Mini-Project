@@ -72,7 +72,7 @@ This workshop is intended to:
 
 
 <p align="center">
-  <img src="" width="500" alt="Initialize Repository Screenshot">
+  <img src="https://github.com/nikiimisal/Project__AWS-Serverless-Mini-Project/blob/main/img/serv.png?raw=true" width="500" alt="Initialize Repository Screenshot">
 </p>
 
 
