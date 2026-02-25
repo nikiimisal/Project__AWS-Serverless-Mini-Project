@@ -70,6 +70,13 @@ This workshop is intended to:
 
 ---
 
+
+<p align="center">
+  <img src="" width="500" alt="Initialize Repository Screenshot">
+</p>
+
+
+
 ---
 
 ## 1. Create a DynamoDB Table
